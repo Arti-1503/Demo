@@ -1,0 +1,3 @@
+todays is wednesday
+this is file 
+Hi this is file1 using cat
